@@ -2,7 +2,7 @@
 <!-- You can add a banner image or coding GIF here for extra visual appeal -->
 
 <h1 align="center">👋 Hi there, I'm Jean Baptiste Niyikiza</h1>
-<h3 align="center">Full-Stack Developer | Embedded Systems Engineer | Research-Oriented Innovator from Rwanda 🇷🇼</h3>
+<h3 align="center">Full-Stack Developer, Firmware & Embedded Systems Engineer</h3>
 
 ---
 
