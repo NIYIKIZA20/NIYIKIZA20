@@ -8,16 +8,8 @@
 
 ### 🚀 About Me
 
-I’m an Electronics & Telecommunication Engineering graduate passionate about building impactful digital and hardware solutions that solve real-world problems — especially across Africa.  
+I’m a full-stack web developer, an Electronics & Telecommunication Engineering graduate.  
 I work across **full-stack web development**, **embedded systems**, **IoT**, and **research-based engineering prototypes**.
-
-Currently, I am:
-✅ Developing full-stack systems using React, Node.js, PostgreSQL, Redis, and Docker  
-✅ Prototyping medical and smart automation devices using microcontrollers and sensor networks  
-✅ Exploring microservices architecture & cloud deployment  
-✅ Building practical solutions focused on **healthcare access, education, and job empowerment**
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -32,20 +24,18 @@ Currently, I am:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
 
+#### 📦 CI/CD & Tools
+Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST APIs
+
 #### ⚡ Embedded & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&logoColor=white)
 ![nRF52840](https://img.shields.io/badge/-nRF52840-0072A3)
 Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)  
-Techniques: Beer-Lambert Law | Reflectance/Transmittance Spectrometry
 
 #### 🧪 Research & Prototyping
-- Dual-wavelength spectrometry  
-- Data visualization on OLED displays  
+- Dual-wavelength spectrometry    
 - Biomedical engineering concepts  
-
-#### 📦 CI/CD & Tools
-Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST APIs
 
 ---
 
@@ -54,23 +44,11 @@ Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST API
 | Project | Description | Tech |
 |--------|------------|------|
 | **Bilirubin Measurement Device** | Medical device using dual-wavelength LEDs (470nm & 525nm), Seeed XIAO nRF52840, OLED display for bilirubin concentration. | Embedded C, Spectrometry |
-| **Smart Dustbin System** | Arduino-based system with 4 ultrasonic sensors, capacitive waste detection, stepper motor allocation. | Arduino, Proteus |
-| **Icyerekezo – School Performance & Parent Engagement System** | Web system for rating, likes, comments, messaging, and performance tracking. | React, Node, PostgreSQL |
+| **Smart Dustbin System** | Arduino-based system with 4 ultrasonic sensors, capacitive waste detection, and stepper motor allocation. | Arduino|
+| **Aguka** | a community saving and lending platform | React, tailwind, Nodejs, typescript, express PostgreSQL |
 | **Kazi ni Kazi – Job Matching Platform** | MVP connecting informal workers with short-term gigs, includes income tracking & ratings. | Figma, Fullstack-ready |
-| **Microservices Blog Manager (In Progress)** | Refactoring a monolithic backend into orchestrated microservices. | Node, Axios, Docker |
+| **Microservices Ecommerce backend project** | Refactoring a monolithic backend into orchestrated microservices. | Node, Axios, Docker |
 
-👉 *I can customize descriptions & repo links after you confirm your preferred pinned order.*
-
----
-
-### 🌍 Leadership & Community Impact
-
-✅ Led youth coordination and community service programs during COVID-19 response  
-✅ Passionate about technology for social good in Rwanda  
-✅ Advocating for affordable health-tech and education platforms  
-✅ Experienced in teamwork, stakeholder engagement, and project delivery
-
----
 
 ### 📊 GitHub Activity & Stats
 
@@ -86,7 +64,7 @@ Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST API
 
 ### 🤝 Let’s Collaborate
 
-💬 I’m open to: Research projects | Full-stack apps | Embedded systems | IoT & health-tech solutions  
+💬 I’m open to: Full-stack web apps | Open source project contributions | Research projects   | Embedded systems  
 📨 Email: **jbniyikiza20@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/niyikiza-jean-baptiste2025/**  
 🌍 Portfolio / Blog: *https://jbniyikiza.vercel.app/*  
@@ -94,4 +72,4 @@ Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST API
 
 ---
 
-⭐ *If you like my work or want to collaborate, feel free to reach out or star a repo!*  
+⭐ *If you like my work or want to collaborate, feel free to reach out *  
