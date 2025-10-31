@@ -39,17 +39,6 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
 
 ---
 
-### 📂 Featured Projects (Pinned Recommended ✅)
-
-| Project | Description | Tech |
-|--------|------------|------|
-| **Bilirubin Measurement Device** | Medical device using dual-wavelength LEDs (470nm & 525nm), Seeed XIAO nRF52840, OLED display for bilirubin concentration. | Embedded C, Spectrometry |
-| **Smart Dustbin System** | Arduino-based system with 4 ultrasonic sensors, capacitive waste detection, and stepper motor allocation. | Arduino|
-| **Aguka** | a community saving and lending platform | React, tailwind, Nodejs, typescript, express PostgreSQL |
-| **Kazi ni Kazi – Job Matching Platform** | MVP connecting informal workers with short-term gigs, includes income tracking & ratings. | Figma, Fullstack-ready |
-| **Microservices Ecommerce backend project** | Refactoring a monolithic backend into orchestrated microservices. | Node, Axios, Docker |
-
-
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
@@ -67,8 +56,9 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
 💬 I’m open to: Full-stack web apps | Open source project contributions | Research projects   | Embedded systems  
 📨 Email: **jbniyikiza20@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/niyikiza-jean-baptiste2025/**  
-🌍 Portfolio / Blog: *https://jbniyikiza.vercel.app/*  
-💡 “Engineering change, one project at a time.”
+🌍 Portfolio / Blog: *https://jbniyikiza.vercel.app/*
+
+💡 “Engineering change, Creativity, professionalism, and attention to details”
 
 ---
 
