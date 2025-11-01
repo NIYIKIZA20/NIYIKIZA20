@@ -54,9 +54,12 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
 ### 🤝 Let’s Collaborate
 
 💬 I’m open to: Full-stack web apps | Open source project contributions | Research projects   | Embedded systems  
+
 📨 Email: **jbniyikiza20@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/niyikiza-jean-baptiste2025/**  
-🌍 Portfolio / Blog: *[https://jbniyikiza.vercel.app/](https://personal-portifolio-git-main-niyikizas-projects.vercel.app/)*
+
+🔗 LinkedIn:    *[click here](https://www.linkedin.com/in/niyikiza-jean-baptiste2025/)
+
+🌍 Portfolio / Blog: *[jbniyikiza.vercel.app](jbniyikiza.vercel.app)*
 
 💡 “Engineering change, Creativity, professionalism, and attention to details”
 
