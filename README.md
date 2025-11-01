@@ -59,7 +59,7 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
 
 🔗 LinkedIn:    *[click here](https://www.linkedin.com/in/niyikiza-jean-baptiste2025/)
 
-🌍 Portfolio / Blog: *[jbniyikiza.vercel.app](jbniyikiza.vercel.app)*
+🌍 Portfolio / Blog: *[jbniyikiza.vercel.app](https://jbniyikiza.vercel.app/)*
 
 💡 “Engineering change, Creativity, professionalism, and attention to details”
 
