@@ -1,11 +1,17 @@
 <!-- Header Banner or GIF (Optional) -->
 <!-- You can add a banner image or coding GIF here for extra visual appeal -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NIYIKIZA20/NIYIKIZA20/main/assets/banner.gif" alt="Banner" width="100%"/>
+</p>
 
-<h1 align="center">👋 Hi there, I'm Jean Baptiste Niyikiza</h1>
+<h1 align="center">👋 Hi there, I'm Jb Niyikiza</h1>
 <h3 align="center">Full-Stack Developer, Firmware & Embedded Systems Engineer</h3>
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Jean+Baptiste+Niyikiza;Full-Stack+Developer+|+Embedded+Engineer;Passionate+about+Innovation+and+Open+Source" alt="Typing SVG" />
+</p>
+---
 ### 🚀 About Me
 
 I’m a full-stack web developer, an Electronics & Telecommunication Engineering graduate.  
@@ -23,9 +29,19 @@ I work across **full-stack web development**, **embedded systems**, **IoT**, and
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
 
 #### 📦 CI/CD & Tools
-Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST APIs
+Git · VS Code · Linux · Cloudinary · Nodemailer · Microservices · REST APIs · Axios
 
 #### ⚡ Embedded & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
@@ -47,6 +63,15 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIYIKIZA20&theme=github-dark-blue" alt="Streak Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIYIKIZA20&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIYIKIZA20&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NIYIKIZA20&theme=onedark&margin-w=10&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -64,5 +89,14 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
 💡 “Engineering change, Creativity, professionalism, and attention to details”
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIYIKIZA20&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/NIYIKIZA20/NIYIKIZA20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ⭐ *If you like my work or want to collaborate, feel free to reach out *  
