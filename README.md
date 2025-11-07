@@ -54,8 +54,7 @@ Sensors: Ultrasonic | Capacitive | OLED | Stepper Motor (A4988)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NIYIKIZA20&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
   <br/>
-  <>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIYIKIZA20&theme=github-dark-blue" alt="Streak Stats"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIYIKIZA20&theme=github-dark-blue" alt="Streak Stats"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIYIKIZA20&layout=compact&theme=github_dark" alt="Top Languages"/>
   </>
   <br/>
