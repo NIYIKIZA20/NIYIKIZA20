@@ -120,7 +120,7 @@ Sensors: Ultrasonic | Capacitive | Temperature | Proximity
 ---
 
 <p align="center">
-  <img src="https://github.com/NIYIKIZA20/NIYIKIZA20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- <img src="https://github.com/NIYIKIZA20/NIYIKIZA20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> -->
 </p>
 
 ⭐ *If you like my work or want to collaborate, feel free to reach out *  
