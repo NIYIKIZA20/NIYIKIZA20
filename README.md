@@ -62,7 +62,7 @@ I work across **full-stack web development**, **embedded systems**, **IoT**, and
 [![I2C](https://img.shields.io/badge/-I2C-009688?logoColor=white)](https://www.ti.com/lit/an/sbaa565/sbaa565.pdf?ts=1763134110057&ref_url=https%253A%252F%252Fwww.google.com%252F/)
 [![SPI](https://img.shields.io/badge/-SPI-FF9800?logoColor=white)](https://www.ti.com/lit/ug/sprugp2a/sprugp2a.pdf?ts=1763146466429/)
 [![OLED](https://img.shields.io/badge/-OLED-000000?logoColor=white)](https://esphome.io/components/display/ssd1306/)
-[![PCB](https://img.shields.io/badge/-PCB-00AAFF?logoColor=white)](https://easyeda.com/)
+[![PCB](https://img.shields.io/badge/-PCB-00AAFF?logoColor=blue)](https://easyeda.com/)
 [![StepperMotor](https://img.shields.io/badge/-Stepper_Motor_(A4988)-795548?logoColor=white)](https://www.ti.com/product-category/motor-drivers/stepper/overview.html/)
 Sensors: Ultrasonic | Capacitive | Temperature | Proximity  
 
@@ -106,7 +106,7 @@ Sensors: Ultrasonic | Capacitive | Temperature | Proximity
 
 🌍 Portfolio / Blog: *[jbniyikiza.vercel.app](https://jbniyikiza.vercel.app/)*
 
-💡 “Engineering change, Creativity, professionalism, and attention to details”
+💡 “Engineering change, Creativity, professionalism, and attention to detail.”
 
 ---
 <p align="center">
