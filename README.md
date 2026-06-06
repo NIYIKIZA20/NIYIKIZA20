@@ -1,7 +1,7 @@
 <!-- Header Banner or GIF (Optional) -->
 <!-- You can add a banner image or coding GIF here for extra visual appeal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Jb+Niyikiza;Full-Stack+Developer+|+Embedded+System+Engineer;Passionate+about+Innovation+and+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Jb+Niyikiza;Embedded+System+|+Web+Developer+Engineer;Passionate+about+Innovation+and+Open+Source" alt="Typing SVG" />
  
 </p>
 
